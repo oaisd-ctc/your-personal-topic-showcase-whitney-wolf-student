@@ -1,0 +1,59 @@
+body {
+    background-image: url("../images/backgroundprint.jpg");
+    text-align: center;
+}
+header {
+    background-color: #FDD8E0;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #BB3E78;
+}
+.text {
+    color: #EF6CA0;
+}
+aside {
+    background-color: #FDD8E0;
+    text-align: center;
+    border-style: solid;
+    border-color: #BB3E78;
+    width: 200px;
+    float: left;
+}
+main {
+    display:flex;
+    margin:20px;
+}
+#first {
+    background-color: #FDD8E0;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #BB3E78;
+}
+#second {
+    background-color: #FDD8E0;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #BB3E78;
+}
+#third {
+    background-color: #FDD8E0;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #BB3E78;
+}
+footer {
+    background-color: #FDD8E0;
+    margin: 0px 500px;
+    text-align: center;
+    border-style: solid;
+    border-color: #BB3E78;
+}
